@@ -1,0 +1,12 @@
+{
+	"id" : "extraTopics",
+	"name" : "Extra Topics",
+	"version" : "0.1.0",
+	"author" : "SneepD0gg",
+	"description" : "Extra Topics Mod",
+	"main" : "./main.js",
+	"dependencies" : {
+        "gdt-modAPI":"0.1.x",
+			"UltimateLib":"1.3.x"
+	}
+}
